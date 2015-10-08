@@ -1,20 +1,29 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+Patrick Murck:
+  name: Patrick Murck
+  web:
+  email: pmurck@cyber.law.harvard.edu
+  bio: "There are *bit* coins now?"
+  avatar: http://www.startwithabook.org/sites/default/files/themes_dinosaurs.jpg
+  twitter: virtuallylaw
   google:
-    plus: BillyRick
+    plus:
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+Amar Ashar:
+  name: Amar Ashar
+  email:
+  bio: "Blockchains rulez"
+  avatar: http://videos.testtube.com/revision3/images/shows/discoverydinosaurs/0051/discoverydinosaurs--0051--dinosaur-hour-two--large.thumb.jpg
+  twitter:
   google:
-    plus: CorneliusFiddlebone
+    plus:
+
+Chris Bavitz:
+  name: Chris Bavitz
+  email:
+  bio: "Bitcoins are awesome"
+  avatar: http://i.ytimg.com/vi/U18sOypRW8s/maxresdefault.jpg
+  twitter:
+  google:
+    plus:

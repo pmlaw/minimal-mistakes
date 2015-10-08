@@ -1,13 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Quick takes
+  url: /blog/
 
-- title: Sample Posts
+- title: Deep thoughts
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Court Actions
+  url: /courts/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Regulatory
+  url: /regulatory/
+
+- title: About
+  url: /about/

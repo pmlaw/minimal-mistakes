@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Berkman Digital Currency Demo Hub
 locale:           en_US
-url:
+# url:
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Berkman Center for Internet and Society
+  avatar: https://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/themes/berkman/images/logo.png
+  bio: Berkman Center Digital Currency Project
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: berkmancenter
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: pmlaw
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

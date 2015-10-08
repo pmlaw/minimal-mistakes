@@ -11,6 +11,26 @@ image:
 
 {% include _toc.html %}
 
+```
+Intro: Jerry Brito, Executive Director, CoinCenter
+
+Title: "Property law and the blockchain"
+
+```
+
+Description:
+
+What kind of assets are created in blockchain markets and how should the law treat them? As the first successful blockchain asset, a bitcoin has variously been considered a commodity, currency and personal property by regulatory agencies, courts and policymakers. This flexible interpretation has created confusion over jurisdictional boundaries and the application of commercial law concepts. Compounding this confusion is the reliance on insufficient analogies used to describe aspects of these systems like “wallets", “coins” and “miners”.  These abstractions gloss over important nuances in how the bitcoin system actually works, and creates a hazard for regulators, policymakers and academics who use these analogies to shape law and policy decisions.
+
+Over the course of this year, we will explore three primary areas where foundational legal research and explanation is most needed:
+
+=> Property Rights in Blockchain Assets
+* Clearing and Settling Asset Transfers on the Blockchain
+* Counter-party Risk From Nodes on a Blockchain Network
+
+In this talk we will explore the first area of interest and try to unpack the basic property interests one can have in a bitcoin.
+
+
 ## Installation
 
 Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
